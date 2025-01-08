@@ -33,9 +33,9 @@ Animation_WarmMoodBlobs::Animation_WarmMoodBlobs() :
 	rotationTime = 60.0;
 	color = { 255,0,0 };
 	hueChange = 30.0;
-	blobs = 5;
+	blobs = 2;
 	reverse = false;
-	baseColorChange = true;
+	baseColorChange = false;
 	baseColorRangeLeft = 333;
 	baseColorRangeRight = 151;
 	baseColorChangeRate = 2.0;
